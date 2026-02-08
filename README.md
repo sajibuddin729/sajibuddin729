@@ -1,6 +1,6 @@
 <h1 align="center">Md. Sajib Uddin</h1>
 <p align="center">
-  Software Engineer • Flutter Mobile App Developer • Full-Stack Mobile (Firebase)
+  Software Engineer • Flutter Mobile App Developer • Full-Stack Mobile App Developer (Firebase and Django)
 </p>
 
 <p align="center">
