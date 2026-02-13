@@ -11,7 +11,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.firewood.perth">Play Store App</a> •
   <a href="https://apps.apple.com/us/app/jjs-firewood-perth/id6756213648">iOS: JJS Firewood Perth</a> •
   <a href="https://apps.apple.com/us/app/jusgo/id6755074606">iOS: JusGo</a> •
-  <a href="https://apps.apple.com/us/app/blink%C3%A9/id6754396282">iOS: Blinké</a>
+  <a href="https://apps.apple.com/us/app/blink%C3%A9/id6754396282">iOS: Blinké</a> • 
   <a href="https://play.google.com/store/apps/details?id=com.blinke.app">Android: Blinké</a>
 </p>
 
