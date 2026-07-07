@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  📍 Chattogram, Bangladesh • ✉️ <a href="mailto:sajibuddin729@gmail.com">sajibuddin729@gmail.com</a> • 📱 +8801521771457
+  📍 Chattogram, Bangladesh • ✉️ <a href="mailto:sajibuddin729@gmail.com">sajibuddin729@gmail.com</a> • 📱 +8801521771457 •<img width="156" height="148" alt="image" src="https://github.com/user-attachments/assets/cd620a12-757c-451e-b5ec-33639e9903bb" />
+ <a href="https://www.linkedin.com/in/mdsajibuddin729">Linkedin</a>
 </p>
 
 <p align="center">
